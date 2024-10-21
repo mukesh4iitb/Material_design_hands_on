@@ -1,6 +1,0 @@
-# Ignore swap files
-*.swp
-
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
