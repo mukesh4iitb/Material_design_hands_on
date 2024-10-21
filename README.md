@@ -18,7 +18,7 @@ This repository provides hands-on tutorials for popular Python-based libraries u
 
 **Useful Resources:**
 - [ASE Documentation](https://wiki.fysik.dtu.dk/ase/)
-- [Getting Started with ASE](https://wiki.fysik.dtu.dk/ase/ase/tutorials/tutorials.html)
+- [ASE 2019 workshop](https://ase-workshop.materialsmodeling.org/)
 
 ### 2. pymatgen (Python Materials Genomics)
 `pymatgen` is a robust library for analyzing materials, interfacing with various first-principles codes, and accessing materials databases like the Materials Project. It is commonly used for creating, manipulating, and analyzing materials structures.
@@ -35,6 +35,10 @@ This repository provides hands-on tutorials for popular Python-based libraries u
 **Useful Resources:**
 - [pymatgen Documentation](https://pymatgen.org/)
 - [Materials Project](https://materialsproject.org/)
+- [pymatgen forum](https://matsci.org/c/pymatgen/9) 
+- [Material project forum](https://matsci.org/c/materials-project/8)
+
+
 
 ### 3. AiiDA (Automated Interactive Infrastructure and Database for Computational Science)
 `AiiDA` is a Python framework designed for high-throughput computing, workflow management, and provenance tracking of first-principles simulations. It is ideal for automating complex workflows and ensuring reproducibility.
@@ -51,6 +55,7 @@ This repository provides hands-on tutorials for popular Python-based libraries u
 **Useful Resources:**
 - [AiiDA Documentation](https://www.aiida.net/)
 - [Getting Started with AiiDA](https://aiida.readthedocs.io/projects/aiida-core/en/latest/get_started/index.html)
+- [AiiDA forum](https://aiida.discourse.group/)
 
 ### 4. AFLOW (Automatic Flow for Materials Discovery)
 `AFLOW` is a framework for high-throughput materials discovery that automates the generation, submission, and analysis of first-principles calculations. It is particularly useful for large-scale computational screening of materials.
@@ -67,6 +72,7 @@ This repository provides hands-on tutorials for popular Python-based libraries u
 **Useful Resources:**
 - [AFLOW Documentation](http://aflowlib.org/)
 - [AFLOW.org](https://aflow.org/)
+- [AFLOW forum](https://groups.io/g/aflow)
 
 **Create virtual environment install all required library here:**
 mkdir ~/codes
